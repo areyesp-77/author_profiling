@@ -1,0 +1,1 @@
+This is a sample of 60 documents retrieved from the PAN at CLEF 2013 dataset. All the documents come from the training partition and are sorted according to the classes and subclasses provided by the organizers.
